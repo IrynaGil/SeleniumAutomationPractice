@@ -11,4 +11,5 @@ public class FooterInfo extends BasePage {
         this.driver = driver;
 
     }
+
 }
